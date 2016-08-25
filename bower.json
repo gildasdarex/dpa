@@ -1,0 +1,22 @@
+{
+  "name": "dpa",
+  "homepage": "https://github.com/getchaperone/microstrategy",
+  "authors": [
+    "Darex TOSSA <gildasdarex@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ace": "https://github.com/bopoda/ace.git",
+    "angular-chart.js": "^0.10.2",
+    "alasql": "^0.2.7"
+  }
+}

@@ -1,0 +1,38 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS file within this directory can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the top of the
+* compiled file, but it's generally better to create a new file per style scope.
+*
+*= require ace/assets/css/bootstrap.min
+*= require ace/assets/font-awesome/4.2.0/css/font-awesome.min
+*= require ace/assets/css/jquery.bootstrap-duallistbox.min
+*= require ace/assets/css/bootstrap-multiselect.min
+*= require ace/assets/css/select2.min
+*= require ace/assets/css/datepicker.min
+*= require ace/assets/css/chosen.jquery.min
+*= require ace/assets/fonts/fonts.googleapis.com
+*= require ace/assets/css/jquery-ui.custom.min
+*= require ace/assets/css/ace-editable.min
+*= require ace/assets/css/ace.min
+*= require angular-chart.js/dist/angular-chart.min
+*= require export
+*= require main
+*= require_self
+*/
+
+#filterPane{
+    display: inherit !important;
+}
+
+.table-header {
+    background: none !important;
+    color: #000;
+    font-size: 14px;
+    line-height: 38px;
+    padding-left: 12px;
+    margin-bottom: 1px;
+}

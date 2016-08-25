@@ -1,0 +1,28 @@
+
+
+.gsp-scroll{
+    overflow: auto;
+    height: 500px;
+}
+
+
+.gsp-color td{
+    background-color: #f89406 !important;
+}
+
+
+.gsp-color{
+    background-color: #f89406 !important;
+}
+
+
+
+.table-header {
+    background: none !important;
+    color: #000;
+    font-size: 14px;
+    line-height: 38px;
+    padding-left: 12px;
+    margin-bottom: 1px;
+
+}
